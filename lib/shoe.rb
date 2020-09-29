@@ -13,8 +13,5 @@ class Shoe
     puts "Your shoe is as good as new!"
   end
 
-  def BRANDS.size
-    self.size = 3
-  end
 
 end
