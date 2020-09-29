@@ -15,5 +15,6 @@ class Shoe
 
   def size
     self.size = 3
+  end
 
 end
